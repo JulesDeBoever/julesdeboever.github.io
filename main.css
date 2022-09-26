@@ -1,0 +1,11 @@
+body {
+    /* lettertype */
+    font-family: sans-serif;
+}
+h1 {
+    color: darkcyan;
+}
+p {
+    /* lettertype */
+    font: bolder;
+}
